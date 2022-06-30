@@ -2,8 +2,8 @@
 Marble Maze Game for iPad 🎮
 
 # What I Learned: ✅
-• CoreMotion
-• CMMotionManager
+• CoreMotion \
+• CMMotionManager \
 • categoryBitMask 
 • collisionBitMask 
 • contactTestBitMask 
