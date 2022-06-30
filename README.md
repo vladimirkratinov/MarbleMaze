@@ -1,5 +1,5 @@
-# MarbleMaze
-Marble Maze Game for iPad 🎮
+# MarbleMaze 🎮
+Marble Maze Game for iPad 
 
 # What I Learned: ✅
 • CoreMotion \
